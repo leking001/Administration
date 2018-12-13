@@ -1,0 +1,38 @@
+body{
+	background-color: gray;
+}
+p{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+table,td{
+	color: white;
+	border: 2px solid white;
+	text-align: center;
+	background-color: blue;
+}
+.HautPage{
+	width: 100%;
+	height: 200px;
+	background-color: black;
+	text-align: center;
+}
+#Smite{
+	width: 355px
+}
+.table {
+	width: 100%;
+}
+.ContenuGauche{
+	height: 600px;
+	width: 25%;
+	background-color: rgb(218,165,32);
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.Titre{
+	text-align:center;
+}
+
